@@ -17,3 +17,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaspialleport&show_icons=true&locale=en" alt="lucaspialleport" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaspialleport&" alt="lucaspialleport" /></p>
+
+<hr>
+<h3 align="center">Major projects</h3>
+- Laravel and symofony websites like blogs or showcase sites and deployment of websites on a server.
+- Customer support web application in Laravel (private)
+- Python mini games
+- 3D raytracing image calculation software (school project)
+
+
