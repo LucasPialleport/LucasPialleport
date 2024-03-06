@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucaspialleport" alt="lucaspialleport" /></a> </p>
 
-- 🔭 I’m currently working on **laravel website**
+- 🔭 I’m currently working on **laravel website**, **generative ai solution** and preparing for the entrance exams to business schools. 
 
-- 📫 How to reach me **lucaspialleport@icloud.com**
+- 📫 How to reach me **lucas@pialleport.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
