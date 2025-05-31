@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **laravel website**, **generative ai solution** and preparing for the entrance exams to business schools. 
 
-- 📫 How to reach me **lucas@pialleport.com**
+- 📫 How to reach me **lucaspialleport@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
