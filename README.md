@@ -5,7 +5,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on:
-  - **Next.js website** : An association recruitment management web app that manages candidate preferences and rankings made by associations after interviews. Implementation of several account types, dashboards, and export options. Deployment planned for approximately 1500 users.
+  - **Next.js website** : an association recruitment management web app that manages candidate preferences and rankings made by associations after interviews. Implementation of several account types, dashboards, and export options. Deployment planned for approximately 1500 users.
   - **Generative AI solution**
   - **Modernizing my school's processes with the CDA**
 
