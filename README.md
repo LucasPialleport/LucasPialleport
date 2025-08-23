@@ -21,4 +21,4 @@
 - 🌐 **Websites with Laravel & Symfony** (blogs, showcase sites, deployment on servers)
 - 💬 **Customer support web application** in Laravel *(private project)*
 - 🎮 **Python mini-games**
-- 🖼️ **3D Raytracing image calculation software** *(school project)*
+- 🖼️ **3D Raytracing image calculation software (C++)** *(school project)*
